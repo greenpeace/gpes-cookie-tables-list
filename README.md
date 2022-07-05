@@ -4,6 +4,8 @@ Dentro de cada carpeta [es](es/), [ca](ca/), [eu](eu/), [gl](gl/) están fichero
 
 Se pueden traducir directamente en la web de Github. Una vez visualizando el fichero hacer click en el botón con el boligrafo arriba a la derecha. Para grabar los cambios arriba abajo introducir una muy breve descripción de los cambios y hacer click en el botón verde "Commit changes".
 
+Si necestáis una referencia mirad la [pagina en castellano](https://es.greenpeace.org/es/politica-de-privacidad-y-cookies/#cookies).
+
 **No traducir:**
 
 - Las tags html dentro de `<` `>` y los attributos `id`, `class`, `style`, `href`, `target` y `rel`

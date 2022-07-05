@@ -6,8 +6,8 @@ Se pueden traducir directamente en la web de Github. Una vez visualizando el fic
 
 **No traducir:**
 
-- Las tags html dentro de `<` `>` y los attributos `id`, `class` y `style`
+- Las tags html dentro de `<` `>` y los attributos `id`, `class`, `style`, `href`, `target` y `rel`
 - El nombre de las empresas
 - Lo que dentro de `<code>`
 
-Respetar al máximo el html.
+Respetar al máximo el html, aunque lo vamos a revisar antes de publicar.
